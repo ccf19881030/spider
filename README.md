@@ -7,7 +7,7 @@
 *   [cc98搜索结果爬虫](https://github.com/zhang0peter/cc98-spider)
 *   [爬取B站5千粉以上的UP主们](https://github.com/zhang0peter/bilibili-5000-ups)
 *   [爬取好奇心日报文章的评论数和分享数](https://github.com/zhang0peter/qdaily-spider)  
-[](*   [爱奇艺号粉丝数爬虫](https://github.com/zhang0peter/iqiyi-spider))
+[](*[爱奇艺号粉丝数爬虫](https://github.com/zhang0peter/iqiyi-spider))
 *   [小说爬虫](https://github.com/zhang0peter/novel-spider)
 *   []()
 *   []()
